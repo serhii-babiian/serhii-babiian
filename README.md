@@ -7,14 +7,22 @@ Experienced in testing web and mobile applications, API validation, and working 
 
 ## 🚀 Skills
 
-**Manual Testing**                                   **API Testing**
-- Test case design & checklists                      - Postman (collections, environments)
-- Smoke / Regression testing                         - cURL
-- Bug reporting & lifecycle                          - JSON validation
-                                                     - Status codes & error handling
+**Manual Testing**                                   
+- Test case design & checklists                      
+- Smoke / Regression testing                         
+- Bug reporting & lifecycle     
 
-**Automation**                                       **Database**
-- Cypress (basic e2e tests)                          - SQL (SELECT, JOIN, data validation)
+**API Testing**                                                 
+- Postman (collections, environments)
+- cURL
+- JSON validation
+- Status codes & error handling
+
+**Database**
+- SQL (SELECT, JOIN, data validation)
+
+**Automation**                                       
+- Cypress (basic e2e tests)                          
 - UI flows testing
 
 ## 🛠 Tools & Technologies
