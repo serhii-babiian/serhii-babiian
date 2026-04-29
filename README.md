@@ -1,6 +1,6 @@
 # Hi there 👋
 
-QA Engineer with 1+ year of commercial experience (Linkos Group)
+QA Engineer with 2+ year of commercial experience
 
 I specialize in manual testing with a growing focus on automation.  
 Experienced in testing web and mobile applications, API validation, and working with logs and infrastructure tools.
